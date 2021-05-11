@@ -1,0 +1,20 @@
+.main_page_bg {
+  background-image: radial-gradient(lightblue, white);
+  height: 90vh;
+  width: 100vw;
+  font-family: cursive;
+  color: coral;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.main_button {
+  width: 300px;
+  height: 100px;
+  color: dimgrey;
+  font-family: cursive;
+  background-color: lightgray;
+  margin: 10px;
+  border-radius: 20px;
+}

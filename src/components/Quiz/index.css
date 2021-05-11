@@ -1,0 +1,15 @@
+.quiz_heading {
+  background-color: aquamarine;
+  background-size: cover;
+  width: 100vw;
+  margin: 0;
+}
+.quiz_body {
+  background-color: blanchedalmond;
+  width: 100vw;
+  background-size: cover;
+  margin: 0;
+}
+* {
+  box-sizing: border-box;
+}
